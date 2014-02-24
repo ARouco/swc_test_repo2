@@ -1,2 +1,3 @@
 Estoy aprendiendo git checkout
 Estoy cambiando learned.txt desde master pero no tiene en cuenta el cambio anterior en exercise branch
+Estoy en la rama exercise
